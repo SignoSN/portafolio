@@ -1,2 +1,2 @@
-# portafolio
-Portafolio de Omar Campistrano [Signo Slichtnacht]
+# Portafolio
+PorPafolio de Omar Campistrano [Signo Slichtnacht]
