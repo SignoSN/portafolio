@@ -15,7 +15,10 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="logo.svg">
+   sodipodi:docname="logo.svg"
+   inkscape:export-filename="/home/signo/servidor/portafolio/img/logo.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
   <defs
      id="defs4">
     <filter
@@ -36,10 +39,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="4.5052803"
-     inkscape:cx="74.523848"
+     inkscape:cx="64.091645"
      inkscape:cy="27.096696"
      inkscape:document-units="px"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer1"
      showgrid="false"
      units="px"
      inkscape:window-width="1366"
@@ -93,29 +96,28 @@
      inkscape:label="principal"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-982.36216)"
-     sodipodi:insensitive="true">
+     transform="translate(0,-982.36216)">
     <g
-       style="font-style:normal;font-weight:normal;font-size:45px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;font-size:45px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ececec;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="text4136">
       <path
          d="m 4.0767578,1033.1122 0,-8.1 24.7500002,0 0,8.1 -24.7500002,0 z m 11.1600002,-12.375 0,-6.75 16.65,0 q 3.51,0 6.03,2.79 2.52,2.79 2.52,6.75 0,3.915 -2.565,6.75 -2.565,2.835 -6.21,2.835 l 0,-9.225 q 0,-1.35 -0.81,-2.25 -0.81,-0.9 -2.025,-0.9 l -13.59,0 z m 0,-19.125 23.85,0 0,8.325 -23.85,0 0,-8.325 z m -2.835,0 0,19.125 q -3.4200002,0 -5.8950002,-2.79 -2.43,-2.835 -2.43,-6.795 0,-3.915 2.43,-6.705 2.475,-2.835 5.8950002,-2.835 z"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;font-family:Airlock;-inkscape-font-specification:Airlock;fill:#b3b3b3"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;font-family:Airlock;-inkscape-font-specification:Airlock;fill:#ececec"
          id="path4169"
          inkscape:connector-curvature="0" />
       <path
          d="m 43.792773,1019.7022 0,-8.1 8.325,0 0,8.1 -8.325,0 z m 0,3.96 8.325,0 0,9.45 -8.325,0 0,-9.45 z"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;font-family:Airlock;-inkscape-font-specification:Airlock;fill:#b3b3b3"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;font-family:Airlock;-inkscape-font-specification:Airlock;fill:#ececec"
          id="path4171"
          inkscape:connector-curvature="0" />
       <path
          d="m 55.932227,1033.1122 0,-8.1 24.75,0 0,8.1 -24.75,0 z m 11.16,-12.375 0,-6.75 16.65,0 q 3.51,0 6.03,2.79 2.52,2.79 2.52,6.75 0,3.915 -2.565,6.75 -2.565,2.835 -6.21,2.835 l 0,-9.225 q 0,-1.35 -0.81,-2.25 -0.81,-0.9 -2.025,-0.9 l -13.59,0 z m 0,-19.125 23.85,0 0,8.325 -23.85,0 0,-8.325 z m -2.835,0 0,19.125 q -3.42,0 -5.895,-2.79 -2.43,-2.835 -2.43,-6.795 0,-3.915 2.43,-6.705 2.475,-2.835 5.895,-2.835 z"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;font-family:Airlock;-inkscape-font-specification:Airlock;fill:#b3b3b3"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;font-family:Airlock;-inkscape-font-specification:Airlock;fill:#ececec"
          id="path4173"
          inkscape:connector-curvature="0" />
       <path
          d="m 104.33324,1033.1122 -8.324998,0 0,-31.5 8.324998,0 0,31.5 z m 2.79,-31.5 18.45,0 q 4.635,0 7.47,3.105 2.88,3.06 2.88,7.785 l 0,20.61 -8.1,0 0,-20.61 q 0,-1.215 -0.765,-1.89 -0.72,-0.675 -2.475,-0.675 l -17.46,0 0,-8.325 z"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;font-family:Airlock;-inkscape-font-specification:Airlock;fill:#b3b3b3"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;font-family:Airlock;-inkscape-font-specification:Airlock;fill:#ececec"
          id="path4175"
          inkscape:connector-curvature="0" />
     </g>

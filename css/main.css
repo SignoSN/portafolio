@@ -17,6 +17,7 @@
 body {
   color: #101010;
   font-family: Helvetica, sans-serif;
+  background-color: #f8f8f8;
 }
 h1,
 h2,
@@ -30,8 +31,19 @@ h6 {
 p {
   margin-bottom: 20px;
 }
+a {
+  color: #2251c4;
+  text-decoration: none;
+  transition: all 0.3s;
+}
+a:hover {
+  color: #0f2457;
+  font-weight: bold;
+}
 section {
   padding-top: 70px;
+  width: 90%;
+  margin: auto;
 }
 header {
   width: 100vw;
@@ -114,6 +126,15 @@ nav .links a:hover {
   width: 100%;
   height: 100%;
   overflow-y: scroll;
+  color: transparent;
+  padding: 15px;
+}
+#web .showcase .targeta1:hover .frente,
+#web .showcase .targeta2:hover .frente,
+#web .showcase .targeta3:hover .frente,
+#web .showcase .targeta4:hover .frente,
+#web .showcase .targeta5:hover .frente {
+  color: #c15d00;
 }
 #web .showcase .targeta1 img.atras,
 #web .showcase .targeta2 img.atras,
@@ -126,6 +147,7 @@ nav .links a:hover {
   top: 0;
   left: 0;
   transition: all 0.3s;
+  z-index: -2;
 }
 #web .showcase .targeta1:hover img.atras,
 #web .showcase .targeta2:hover img.atras,
