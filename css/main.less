@@ -157,3 +157,58 @@ nav .links a{
 #web .showcase .targeta5:hover img.atras{
   filter:contrast(30%) brightness(200%);
 }
+#ilustra{
+  width: 100%;
+  height: auto;
+  background-color: #c9c9c9;
+  padding: 5%;
+}
+#ilustra #lienzo{
+  width:300px;
+  height: 400px;
+  //background-color: #FFF;
+  background-size: 100% auto;
+  //background-image: url(../img/ilustracion/chibicorea_SN.png);
+  padding: 5px;
+  margin: auto;
+  position: relative;
+  overflow: hidden;
+
+  #fotos{
+    width:1500px;
+    height: 400px;
+    display: flex;
+    position: absolute;
+    top: 0;
+    left: 0;
+    animation: fotos 20s infinite;
+    -webkit-animation: fotos 20s infinite;
+    list-style: none;
+    li{
+      width:300px;
+      img{
+        width: 100%;
+        height: auto;
+      }
+    }
+  }
+}
+section#contacto{
+  background-color: lighten(@contra, 45%);
+  width: 100%;
+  padding: 5%;
+}
+
+@keyframes fotos {
+  0%{left: 0;}
+  20%{left: 0;}
+  25%{left: -300px;}
+  40%{left: -300px;}
+  45%{left: -600px;}
+  60%{left: -600px;}
+  65%{left: -900px;}
+  80%{left: -900px;}
+  85%{left: -1200px;}
+  95%{left: -1200px;}
+
+}
