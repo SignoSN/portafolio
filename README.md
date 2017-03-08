@@ -1,2 +1,2 @@
 # Portafolio
-PorPafolio de Omar Campistrano [Signo Slichtnacht]
+Portafolio de Omar Campistrano [Signo Slichtnacht](https://twitter.com/Signo_SN)
